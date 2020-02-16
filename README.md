@@ -25,10 +25,13 @@ The user should be able to:
   * View multiple the combined weight of multiple exercises on the `stats` page.
   
   
+## Screencastify
+  
   https://drive.google.com/file/d/1Jwd4HVxO716NYFgtd4chjgkhSMoLM2aS/view
   
   
-  
+## Screenshots
+ 
   <img src="screenshot/20200128_151031.png">  
   
   
