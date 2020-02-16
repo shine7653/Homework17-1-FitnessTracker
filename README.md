@@ -24,6 +24,8 @@ The user should be able to:
 
   * View multiple the combined weight of multiple exercises on the `stats` page.
   
+## Heroku Deploy
+  https://fitnesstracker7653.herokuapp.com/
   
 ## Screencastify
   
